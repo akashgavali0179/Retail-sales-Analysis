@@ -1,4 +1,4 @@
-![Retail-sales-Analysis](Excel dashboard.png)
+![Retail-sales-Analysis](Excel_dashboard.png)
 
 # Retail Sales Analysis Dashboard
 
